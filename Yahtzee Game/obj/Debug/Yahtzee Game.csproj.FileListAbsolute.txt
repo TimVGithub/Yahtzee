@@ -1,0 +1,45 @@
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Yahtzee Game\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+\\qut.edu.au\Documents\StaffHome\StaffGroupR$\roggenka\Desktop\Yahtzee in Stages\Yahtzee Part A\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\Tim-san\Desktop\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\Tim\Desktop\asdf\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\Tim\Desktop\asdf\YahtzeeAssignment\Yahtzee\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
